@@ -1,0 +1,10 @@
+C:\C# 2015\FarazAliProject3B\FarazAliProject3A\obj\Debug\FarazAliProject3A.exe
+C:\C# 2015\FarazAliProject3B\FarazAliProject3A\obj\Debug\FarazAliProject3A.pdb
+C:\C# 2015\FarazAliProject3B\FarazAliProject3A\bin\Debug\FarazAliProject3A.exe.config
+C:\C# 2015\FarazAliProject3B\FarazAliProject3A\bin\Debug\FarazAliProject3A.exe
+C:\C# 2015\FarazAliProject3B\FarazAliProject3A\bin\Debug\FarazAliProject3A.pdb
+C:\C# 2015\FarazAliProject3B\FarazAliProject3A\obj\Debug\FarazAliProject3A.Properties.Resources.resources
+C:\C# 2015\FarazAliProject3B\FarazAliProject3A\obj\Debug\FarazAliProject3B.csproj.GenerateResource.cache
+C:\C# 2015\FarazAliProject3B\FarazAliProject3A\obj\Debug\FarazAliProject3B.csproj.CoreCompileInputs.cache
+C:\C# 2015\FarazAliProject3B\FarazAliProject3A\obj\Debug\FarazAliProject3A.frmDivision.resources
+C:\C# 2015\FarazAliProject3B\FarazAliProject3A\obj\Debug\FarazAliProject3B.csprojAssemblyReference.cache
